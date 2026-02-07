@@ -116,7 +116,7 @@ https://batuu60.itch.io/the-ultimate-2d-rpg-game
 To run the project locally:
 
 1. Clone the repository:
-git clone https://github.com/Batuhan-METU/2D_RPG_GAME.git
+git clone https://github.com/Batuhan-METU/2D_RPGGame-Unity6-GameProject.git
 
 2. Open Unity Hub  
 3. Click **Open Project**  
