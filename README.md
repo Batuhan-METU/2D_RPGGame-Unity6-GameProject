@@ -107,6 +107,12 @@ This project includes a large number of interconnected gameplay systems:
 
 ## 🖥 Installation
 
+You can download and play the game here:
+
+👉 **itch.io Page:**  
+https://batuu60.itch.io/the-ultimate-2d-rpg-game
+
+
 To run the project locally:
 
 1. Clone the repository:
@@ -118,28 +124,6 @@ git clone https://github.com/Batuhan-METU/2D_RPG_GAME.git
 5. Open the main scene  
 6. Press **Play**
 
----
-
-## 📂 Project Structure
-
-Assets/
-├── Scripts/
-│ ├── Player/
-│ ├── Enemy/
-│ ├── UI/
-│ ├── Inventory/
-│ ├── Combat/
-│ ├── Dialogue/
-│ ├── Quest/
-│ └── Systems/
-├── Scenes/
-├── Prefabs/
-├── Art/
-├── Audio/
-└── UI/
-
-
-The project follows a clean and organized architecture to ensure scalability and future development.
 
 ---
 
